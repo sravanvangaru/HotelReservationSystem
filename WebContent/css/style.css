@@ -1,0 +1,13 @@
+
+#menu{
+	list-style-type:none;
+	font-size:72px;
+}
+
+#menu li{
+	display:inline;
+}
+
+p.home { 
+  font-size:40px;
+}
